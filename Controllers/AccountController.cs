@@ -10,7 +10,6 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace API.Controllers
 {
-    
     public class AccountController : BaseApiController
     {
         private readonly DataContext _context;
